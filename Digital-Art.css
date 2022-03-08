@@ -248,3 +248,8 @@
 }.u-section-5 .u-sheet-1 {
   min-height: 83px;
 }
+.footer__copyright-info {
+    font-size: calc(0.875rem + (16 - 14) * ((100vw - 375px) / (1440 - 375)));
+    display: inline-block;
+    line-height: 1.333333;
+}
